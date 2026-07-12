@@ -102,7 +102,7 @@ Source: [Zomato Delivery Operations Analytics Dataset — Kaggle](https://www.ka
 - `Zomato_Delivery_Operations_Analytics.xlsx` — full workbook (raw data, cleaned data, KPI summary, pivot tables, charts)
 - `Zomato Dataset(RAW).png`
 - `Zomato Dataset(Clean).png`
-- `KPI_Summary.png`
+- `KPI Summary.png`
 - `Pivot Summary.png`
 - `Dashboard.png`
 
