@@ -1,6 +1,6 @@
 # Zomato Delivery Operations Analytics (Excel)
 
-Zomato Delivery Dataset (Kaggle). Analyzed 45,584 orders to track SLA Breach Rate, Delivery Risk Level (Weather & Traffic), Vehicle Performance, and Festival-Day Demand Impact.
+Zomato Delivery Dataset (Kaggle). Analyzed 45,584 orders to track SLA Breach Rate, Delivery Risk Level (Weather & Traffic), Vehicle Performance, and Festival Day Demand Impact.
 
 ## Project Overview
 
